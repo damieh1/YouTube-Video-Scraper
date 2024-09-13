@@ -1,4 +1,4 @@
-# YouTube Playlist Downloader with YouTube API and `yt-dlp`
+# YouTube Playlist Downloader with YouTube API
 
 Download all videos from a YouTube playlist, including YT shorts, using the YouTube API via Python. Retrieved videos include metadata and videos in the best quality available.
 
